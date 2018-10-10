@@ -1,0 +1,6 @@
+.vscode
+*.wasm
+*.wast
+*.abi
+
+node_modules/

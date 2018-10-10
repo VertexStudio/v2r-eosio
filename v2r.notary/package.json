@@ -1,0 +1,14 @@
+{
+  "name": "v2r.notary",
+  "version": "1.0.0",
+  "description": "EOSIO-based notarization of v2r challenges.",
+  "dependencies": {
+    "eosjs": "^16.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
